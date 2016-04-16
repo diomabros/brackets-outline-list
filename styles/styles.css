@@ -27,6 +27,7 @@
     border-top: 1px solid rgba(255, 255, 255, 0.05);
     color: #adb9bd;
     text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+    z-index: 6; /* Needed for visual issue */
 }
 
 .outline-sidebar {
